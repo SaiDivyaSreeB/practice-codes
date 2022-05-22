@@ -1,0 +1,29 @@
+#header{
+    width:100%;
+    text-align:left;
+    padding:5px;
+    /*white-space:nowrap;*/
+}
+div.scroll{
+    overflow-y: auto;
+   overflow-x: hidden;
+    width:100px;
+    height: 1000px;
+    
+}
+.genrePic{
+    /*display:inline-block;*/
+    margin:25px;
+}
+#header .slide{
+    display: inline-block;
+}
+.btName{
+    margin:25px;
+}
+h1{
+    margin:25px;
+}
+.btn{
+    color:black;
+}

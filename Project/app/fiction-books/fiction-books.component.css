@@ -1,0 +1,43 @@
+#header{
+    width:100%;
+    text-align:left;
+    padding:5px;
+    /*white-space:nowrap;*/
+}
+div.scroll{
+    overflow-y: auto;
+   overflow-x: hidden;
+    width:100px;
+    height: 1000px;
+    
+}
+span{
+    /*display:inline-block;*/
+    margin:25px;
+}
+#header .slide{
+    display: inline-block;
+}
+h1{
+    margin:25px;
+}
+/*.btns{
+    position: absolute;
+    top: 216px;
+    left: 328px;
+    display: flex;
+}
+.btn{
+    background: transparent;
+    border: none;
+    margin: 87px;
+    font-size: 88px;
+    outline: none;
+    color: grey;
+}*/
+.btn{
+    color:black;
+}
+/*.btn i:hover{
+    cursor: pointer;
+}*/
